@@ -1,0 +1,589 @@
+
+Time: 		 00:38:52
+Latitude: 	 30° 47' 4.08", N
+Longitude: 	 095° 50' 18.24", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 50
+		Satellite: 02 SNR: 46
+		Satellite: 28 SNR: 41
+		Satellite: 09 SNR: 49
+		Satellite: 20 SNR: 46
+		Satellite: 12 SNR: 42
+
+Time: 		 00:38:53
+Latitude: 	 30° 47' 4.086", N
+Longitude: 	 095° 50' 18.234", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 50
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 50
+		Satellite: 20 SNR: 46
+		Satellite: 12 SNR: 43
+
+Time: 		 00:38:54
+Latitude: 	 30° 47' 4.098", N
+Longitude: 	 095° 50' 18.222", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 50
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 50
+		Satellite: 20 SNR: 46
+		Satellite: 12 SNR: 43
+
+Time: 		 00:38:55
+Latitude: 	 30° 47' 4.122", N
+Longitude: 	 095° 50' 18.216", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 49
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 50
+		Satellite: 20 SNR: 46
+		Satellite: 12 SNR: 44
+
+Time: 		 00:38:56
+Latitude: 	 30° 47' 4.152", N
+Longitude: 	 095° 50' 18.21", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 49
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 50
+		Satellite: 20 SNR: 46
+		Satellite: 12 SNR: 44
+
+Time: 		 00:38:57
+Latitude: 	 30° 47' 4.2", N
+Longitude: 	 095° 50' 18.192", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 49
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 50
+		Satellite: 20 SNR: 46
+		Satellite: 12 SNR: 44
+
+Time: 		 00:38:58
+Latitude: 	 30° 47' 4.272", N
+Longitude: 	 095° 50' 18.168", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 49
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 50
+		Satellite: 20 SNR: 46
+		Satellite: 12 SNR: 44
+
+Time: 		 00:38:59
+Latitude: 	 30° 47' 4.332", N
+Longitude: 	 095° 50' 18.144", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 48
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 49
+		Satellite: 20 SNR: 47
+		Satellite: 12 SNR: 44
+
+Time: 		 00:39:00
+Latitude: 	 30° 47' 4.404", N
+Longitude: 	 095° 50' 18.126", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 48
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 42
+		Satellite: 09 SNR: 49
+		Satellite: 20 SNR: 47
+		Satellite: 12 SNR: 43
+
+Time: 		 00:39:01
+Latitude: 	 30° 47' 4.488", N
+Longitude: 	 095° 50' 18.126", W
+Number of Satellites Used for Fix: 7
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 51
+		Satellite: 17 SNR: 48
+		Satellite: 02 SNR: 47
+		Satellite: 28 SNR: 43
+		Satellite: 09 SNR: 48
+		Satellite: 20 SNR: 47
+		Satellite: 12 SNR: 43
+----------------------------------------------------------------------------------------
+
+CDT = 00:39:22			 Avg Lat = 2945.512517 		Avg Long = 9231.959393
+Interval: 1 			 Avg Lat = 29° 45' 30.751"	Avg Long = 092° 31' 57.564" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 49  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 46
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:39:52			 Avg Lat = 3047.115807 		Avg Long = 9550.300030
+Interval: 2 			 Avg Lat = 30° 47' 6.948"	Avg Long = 095° 50' 18.002" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:40:22			 Avg Lat = 3047.116920 		Avg Long = 9550.299607
+Interval: 3 			 Avg Lat = 30° 47' 7.015"	Avg Long = 095° 50' 17.976" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:40:52			 Avg Lat = 3047.118030 		Avg Long = 9550.299167
+Interval: 4 			 Avg Lat = 30° 47' 7.082"	Avg Long = 095° 50' 17.950" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:41:22			 Avg Lat = 3047.119147 		Avg Long = 9550.298707
+Interval: 5 			 Avg Lat = 30° 47' 7.149"	Avg Long = 095° 50' 17.922" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:41:52			 Avg Lat = 3047.120267 		Avg Long = 9550.298223
+Interval: 6 			 Avg Lat = 30° 47' 7.216"	Avg Long = 095° 50' 17.893" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:42:22			 Avg Lat = 3047.121397 		Avg Long = 9550.297717
+Interval: 7 			 Avg Lat = 30° 47' 7.284"	Avg Long = 095° 50' 17.863" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:42:52			 Avg Lat = 3047.122540 		Avg Long = 9550.297183
+Interval: 8 			 Avg Lat = 30° 47' 7.352"	Avg Long = 095° 50' 17.831" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 42
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:43:22			 Avg Lat = 3047.123687 		Avg Long = 9550.296600
+Interval: 9 			 Avg Lat = 30° 47' 7.421"	Avg Long = 095° 50' 17.796" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 49  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:43:52			 Avg Lat = 3047.124840 		Avg Long = 9550.295983
+Interval: 10 			 Avg Lat = 30° 47' 7.490"	Avg Long = 095° 50' 17.759" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 48  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:44:22			 Avg Lat = 3047.126010 		Avg Long = 9550.295343
+Interval: 11 			 Avg Lat = 30° 47' 7.561"	Avg Long = 095° 50' 17.721" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 48  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:44:52			 Avg Lat = 3047.127190 		Avg Long = 9550.294670
+Interval: 12 			 Avg Lat = 30° 47' 7.631"	Avg Long = 095° 50' 17.680" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 48  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:45:22			 Avg Lat = 3047.128373 		Avg Long = 9550.293973
+Interval: 13 			 Avg Lat = 30° 47' 7.702"	Avg Long = 095° 50' 17.638" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 48  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:45:52			 Avg Lat = 3047.129560 		Avg Long = 9550.293263
+Interval: 14 			 Avg Lat = 30° 47' 7.774"	Avg Long = 095° 50' 17.596" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 48  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:46:22			 Avg Lat = 3047.130757 		Avg Long = 9550.292543
+Interval: 15 			 Avg Lat = 30° 47' 7.845"	Avg Long = 095° 50' 17.553" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 48  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:46:52			 Avg Lat = 3047.131950 		Avg Long = 9550.291817
+Interval: 16 			 Avg Lat = 30° 47' 7.917"	Avg Long = 095° 50' 17.509" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 48  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:47:22			 Avg Lat = 3047.133140 		Avg Long = 9550.291083
+Interval: 17 			 Avg Lat = 30° 47' 7.988"	Avg Long = 095° 50' 17.465" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 47  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:47:52			 Avg Lat = 3047.134347 		Avg Long = 9550.290337
+Interval: 18 			 Avg Lat = 30° 47' 8.061"	Avg Long = 095° 50' 17.420" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 47  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:48:22			 Avg Lat = 3047.135547 		Avg Long = 9550.289580
+Interval: 19 			 Avg Lat = 30° 47' 8.133"	Avg Long = 095° 50' 17.375" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 47  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:48:52			 Avg Lat = 3047.136757 		Avg Long = 9550.288813
+Interval: 20 			 Avg Lat = 30° 47' 8.205"	Avg Long = 095° 50' 17.329" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 47  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:49:22			 Avg Lat = 3047.137970 		Avg Long = 9550.288033
+Interval: 21 			 Avg Lat = 30° 47' 8.278"	Avg Long = 095° 50' 17.282" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 47  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:49:52			 Avg Lat = 3047.139187 		Avg Long = 9550.287247
+Interval: 22 			 Avg Lat = 30° 47' 8.351"	Avg Long = 095° 50' 17.235" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 47  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:50:22			 Avg Lat = 3047.140430 		Avg Long = 9550.286443
+Interval: 23 			 Avg Lat = 30° 47' 8.426"	Avg Long = 095° 50' 17.187" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 47  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:50:52			 Avg Lat = 3047.141660 		Avg Long = 9550.285623
+Interval: 24 			 Avg Lat = 30° 47' 8.500"	Avg Long = 095° 50' 17.137" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 46  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 46  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:51:22			 Avg Lat = 3047.142903 		Avg Long = 9550.284790
+Interval: 25 			 Avg Lat = 30° 47' 8.574"	Avg Long = 095° 50' 17.087" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 46  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 44
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 45  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:51:52			 Avg Lat = 3047.144143 		Avg Long = 9550.283947
+Interval: 26 			 Avg Lat = 30° 47' 8.649"	Avg Long = 095° 50' 17.037" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 46  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 45
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 45  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:52:22			 Avg Lat = 3047.145377 		Avg Long = 9550.283090
+Interval: 27 			 Avg Lat = 30° 47' 8.723"	Avg Long = 095° 50' 16.985" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 46  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 45
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 45  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:52:52			 Avg Lat = 3047.146617 		Avg Long = 9550.282223
+Interval: 28 			 Avg Lat = 30° 47' 8.797"	Avg Long = 095° 50' 16.933" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 46  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 45
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 45  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:53:22			 Avg Lat = 3047.147847 		Avg Long = 9550.281343
+Interval: 29 			 Avg Lat = 30° 47' 8.871"	Avg Long = 095° 50' 16.881" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 46  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 45
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 45  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:53:52			 Avg Lat = 3047.149083 		Avg Long = 9550.280457
+Interval: 30 			 Avg Lat = 30° 47' 8.945"	Avg Long = 095° 50' 16.827" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 46  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 45
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 45  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:54:22			 Avg Lat = 3047.150323 		Avg Long = 9550.279557
+Interval: 31 			 Avg Lat = 30° 47' 9.019"	Avg Long = 095° 50' 16.773" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 45  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 45
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 45  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:54:52			 Avg Lat = 3047.151557 		Avg Long = 9550.278647
+Interval: 32 			 Avg Lat = 30° 47' 9.093"	Avg Long = 095° 50' 16.719" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 45  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 45
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 38  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:55:22			 Avg Lat = 3047.152803 		Avg Long = 9550.277727
+Interval: 33 			 Avg Lat = 30° 47' 9.168"	Avg Long = 095° 50' 16.664" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 45  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 46
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 38  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+CDT = 00:55:42			 Avg Lat = 3047.154043 		Avg Long = 9550.276783
+Interval: 34 			 Avg Lat = 30° 47' 9.243"	Avg Long = 095° 50' 16.607" 
+Satellite Information:
+		PRN: 2 SNRMin: 46  SNRMax: 47
+		PRN: 4 SNRMin: 51  SNRMax: 51
+		PRN: 9 SNRMin: 45  SNRMax: 50
+		PRN: 12 SNRMin: 42  SNRMax: 46
+		PRN: 17 SNRMin: 48  SNRMax: 50
+		PRN: 20 SNRMin: 38  SNRMax: 47
+		PRN: 28 SNRMin: 41  SNRMax: 43
+
+----------------------------------------------------------------------------------------
+
+Final report: 
+
+Average Latitude: 10° 27' 30.895" 	 Average Longitude: 321° 82' 2.877"
+Min Latitude: 30° 47' 4.080" 		 Max Latitude: 30° 48' 3.090"
+Min Longitude: 095° 49' 14.742" 	 Max Longitude: 095° 50' 18.294"

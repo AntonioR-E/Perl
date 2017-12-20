@@ -1,0 +1,149 @@
+
+Time: 		 01:04:39
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.108", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 29
+		Satellite: 02 SNR: 29
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 21
+		Satellite: 12 SNR: 21
+
+Time: 		 01:04:40
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.114", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 29
+		Satellite: 02 SNR: 28
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 20
+		Satellite: 12 SNR: 21
+
+Time: 		 01:04:41
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.12", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 29
+		Satellite: 02 SNR: 28
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 20
+		Satellite: 12 SNR: 21
+
+Time: 		 01:04:42
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.126", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 29
+		Satellite: 02 SNR: 28
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 20
+		Satellite: 12 SNR: 21
+
+Time: 		 01:04:43
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.132", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 29
+		Satellite: 02 SNR: 28
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 20
+		Satellite: 12 SNR: 21
+
+Time: 		 01:04:44
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.138", W
+Number of Satellites Used for Fix: 6
+Satellites in view 07
+PRN & SNR: 	 
+		Satellite: 04 SNR: 30
+		Satellite: 02 SNR: 28
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 20
+		Satellite: 12 SNR: 21
+
+Time: 		 01:04:45
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.144", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 30
+		Satellite: 02 SNR: 28
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 21
+		Satellite: 12 SNR: 21
+
+Time: 		 01:04:46
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.138", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 30
+		Satellite: 02 SNR: 28
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 20
+		Satellite: 28 SNR: 21
+		Satellite: 12 SNR: 22
+
+Time: 		 01:04:47
+Latitude: 	 32° 42' 30.672", N
+Longitude: 	 097° 21' 30.138", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 30
+		Satellite: 02 SNR: 27
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 21
+		Satellite: 28 SNR: 21
+		Satellite: 12 SNR: 22
+
+Time: 		 01:04:48
+Latitude: 	 32° 42' 30.678", N
+Longitude: 	 097° 21' 30.138", W
+Number of Satellites Used for Fix: 6
+Satellites in view 08
+PRN & SNR: 	 
+		Satellite: 04 SNR: 30
+		Satellite: 02 SNR: 27
+		Satellite: 17 SNR: 31
+		Satellite: 09 SNR: 21
+		Satellite: 28 SNR: 22
+		Satellite: 12 SNR: 22
+----------------------------------------------------------------------------------------
+
+CDT = 01:04:58			 Avg Lat = 2161.674337 		Avg Long = 6481.001470
+Interval: 1 			 Avg Lat = 21° 61' 40.460"	Avg Long = 064° 81' 0.088" 
+Satellite Information:
+		PRN: 2 SNRMin: 28  SNRMax: 29
+		PRN: 4 SNRMin: 29  SNRMax: 29
+		PRN: 9 SNRMin: 20  SNRMax: 20
+		PRN: 12 SNRMin: 21  SNRMax: 21
+		PRN: 17 SNRMin: 31  SNRMax: 31
+		PRN: 28 SNRMin: 20  SNRMax: 21
+
+----------------------------------------------------------------------------------------
+
+Final report: 
+
+Average Latitude: 21° 61' 40.460" 	 Average Longitude: 064° 81' 0.088"
+Min Latitude: 32° 42' 30.672" 		 Max Latitude: 32° 42' 30.720"
+Min Longitude: 097° 21' 30.108" 	 Max Longitude: 097° 21' 30.144"
